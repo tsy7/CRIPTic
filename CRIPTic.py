@@ -12,7 +12,7 @@ from tabulate import tabulate
 
 # use os system
 # for clear terminal
-os.system('cls')
+os.system('clear')
 
 # banner
 banner()
