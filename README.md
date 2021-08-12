@@ -10,7 +10,6 @@ pip install hashlib
 # Usage
 
 ```
-
 python3 CRIPTic.py
 ```
 
