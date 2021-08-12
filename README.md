@@ -6,6 +6,10 @@
 git clone https://github.com/tsy7/CRIPTic.git
 pip install hashlib
 ```
+#how use?
+```
+use help command
+```
 
 # Usage
 
