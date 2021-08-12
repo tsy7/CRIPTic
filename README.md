@@ -20,9 +20,7 @@ import colorize
 import hash
 ```
 
-# Social Media
 
-[@tsy7] (https://github.com/tsy7)
 
 
 # Discord
