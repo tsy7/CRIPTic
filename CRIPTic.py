@@ -131,7 +131,7 @@ while True:
                 Hash.getWord()
                 print(f"[{colorize.RED}~{colorize.WHITE}] Sha3_384: {Hash.sha3_384}")
                 break
-            except TypeError:
+            except:
                 print(f"{colorize.RED}using:{colorize.WHITE} sha3_384 <your words>")
                 print(f"{colorize.RED}using:{colorize.WHITE} sha3_384 Hello")
 
